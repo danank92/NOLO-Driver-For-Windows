@@ -1,10 +1,11 @@
 # NOLO-Driver-For-Windows
-NOLO-Driver-For-Windows is  
+NOLO-Driver-For-Windows is services for [NOLOVR](https://www.nolovr.com/).
+ 
 ## Release Notes
-version 0.1  
+version 0.1.0：  
 
 1. Riftcaat/Trinus play steamVR.
-2. Unity developer debug in windows.
+
 ## Installation and use
 NOLO-Driver-For-Windows operational environment requirements:  
 
@@ -15,9 +16,9 @@ NOLO-Driver-For-Windows operational environment requirements:
 
 Download [NOLO-Driver-For-Windows](./NOLOVR).  
 
-Follow [this](./Docs/Install-Description.MD) step to install the NOLO-Driver-For-Windows.  
+Follow [this](./Docs/Install-Description.MD)([安装说明](./Docs/Install-Description_cn.MD)) step to install the NOLO-Driver-For-Windows.  
 
-[Instructions for use](./Docs/Instructions.MD)
+[Instructions](./Docs/Instructions.MD)([使用说明](./Docs/Instructions_cn.MD)) for use.
 
 You can find help and submit questions [here](https://github.com/NOLOVR/NOLO-Driver-For-Windows/issues).
 
