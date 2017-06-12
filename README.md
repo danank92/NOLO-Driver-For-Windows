@@ -1,10 +1,10 @@
 # NOLO-Driver-For-Windows
-NOLO-Driver-For-Windows is services for [NOLOVR](https://www.nolovr.com/).
+NOLO-Driver-For-Windows services for [NOLOVR](https://www.nolovr.com/).
  
 ## Release Notes
 version 0.1.0：  
 
-1. Riftcaat/Trinus play steamVR.
+1. Riftcat/Trinus play steamVR.
 
 ## Installation and use
 NOLO-Driver-For-Windows operational environment requirements:  
