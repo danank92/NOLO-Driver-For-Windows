@@ -12,7 +12,7 @@ NOLO启动后没有窗口，会最小化在右下角的托盘中。
  
 <div align=center><img width = 180 heigh = 80 src="./Pic/Instructions4.jpg"></div>  
 
-连接状态：这里显示NOLO当前设备的连接状态和电量信息，您可以通过这里自查设备是否处于正常状态。 
+连接状态：这里显示NOLO当前设备的连接状态和电量信息，您可以通过这里检查设备是否处于正常状态。 
 RiftCat/Trinus:
 - Gear VR:如果您选择的三星手机+Gear VR请选择Gear VR模式。
 - CardBoard:如果不是，请选择Cardboard模式。 
