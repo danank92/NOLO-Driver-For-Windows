@@ -4,7 +4,8 @@ NOLO-Driver-For-Windows services for [NOLOVR](https://www.nolovr.com/).
 ## Release Notes
 version 0.1.0：  
 
-1. Riftcat/Trinus play steamVR.
+1. Work with Riftcat or Trinus to play Steam VR games.
+
 
 ## Installation and use
 NOLO-Driver-For-Windows operational environment requirements:  
@@ -16,9 +17,9 @@ NOLO-Driver-For-Windows operational environment requirements:
 
 Download [NOLO-Driver-For-Windows](./NOLOVR).  
 
-Follow [the install description](./Docs/Install-Description.MD)([安装说明](./Docs/Install-Description_cn.MD)) to install the NOLO-Driver-For-Windows.  
 
-And the [Intruction](./Docs/Instructions.MD)([使用说明](./Docs/Instructions_cn.MD)) to use this software.
+Follow [the install description](./Docs/Install-Description.MD)([安装说明](./Docs/Install-Description_cn.MD)) to install the NOLO-Driver-For-Windows,and the [Intruction](./Docs/Instructions.MD)([使用说明](./Docs/Instructions_cn.MD)) to use this software.
+
 
 You can find help and submit questions [here](https://github.com/NOLOVR/NOLO-Driver-For-Windows/issues).
 
