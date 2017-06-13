@@ -4,7 +4,7 @@ NOLO-Driver-For-Windows services for [NOLOVR](https://www.nolovr.com/).
 ## Release Notes
 version 0.2.0：  
 
-Fixed the problem that the software flashed after opening.
+Fixed the problem that the software flashed after opening.Please uninstall the previous version manually.
 
 
 ## Installation and use
