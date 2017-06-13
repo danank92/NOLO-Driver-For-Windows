@@ -2,9 +2,11 @@
 NOLO-Driver-For-Windows services for [NOLOVR](https://www.nolovr.com/).
  
 ## Release Notes
-version 0.2.0：  
+version 0.3.0：  
+Please uninstall the previous version manually.   
+Fixed the problem that the software flashed after opening.  
+Fixed the problem when you choose Gear VR and Cardboard cause the program can't hidden.
 
-Fixed the problem that the software flashed after opening.Please uninstall the previous version manually.
 
 
 ## Installation and use
