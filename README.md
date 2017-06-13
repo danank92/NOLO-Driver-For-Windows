@@ -2,9 +2,9 @@
 NOLO-Driver-For-Windows services for [NOLOVR](https://www.nolovr.com/).
  
 ## Release Notes
-version 0.1.0：  
+version 0.2.0：  
 
-1. Work with Riftcat or Trinus to play Steam VR games.
+Fixed the problem that the software flashed after opening.
 
 
 ## Installation and use
