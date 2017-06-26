@@ -2,12 +2,12 @@
 NOLO-Driver-For-Windows services for [NOLOVR](https://www.nolovr.com/).
  
 ## Release Notes
-version 0.5.0：  
+version 0.6.0：  
 ***Please uninstall the previous version manually.***   
-Added DemoScene function.  
-Modified English language pack.  
-Optimized handle tactile feedback.  
-Optimized for frequent room setting.
+Added automatic updates function.  
+Modified language pack.  
+Modified frequent room setting.  
+Modified headset and controller cross 180°,Double-click the Menu button to repair.
 
 
 
