@@ -4,8 +4,8 @@ NOLO-Driver-For-Windows services for [NOLOVR](https://www.nolovr.com/).
 ## Release Notes
 NOLO Driver for Windows 0.8.0 update
 
-1. Fix memory problems.
-2. Fix the conflict between NOLO and Riftcat.
+1. Fixed the memory leak problem.
+2. Fixed the conflict of NOLO driver and RiftCat so the NOLO driver won't crash when RiftCat starts.
 
 
 
