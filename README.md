@@ -2,10 +2,10 @@
 NOLO-Driver-For-Windows services for [NOLOVR](https://www.nolovr.com/).
  
 ## Release Notes
-NOLO Driver for Windows 0.8.0 update
+NOLO Driver for Windows 0.9.0 update
 
-1. Fixed the memory leak problem.
-2. Fixed the conflict of NOLO driver and RiftCat so the NOLO driver won't crash when RiftCat starts.
+1. Fix an display bug caused by changing Lauguage on the driver.
+2. Add an option to customize the button for 180 degree turn around function.
 
 
 
